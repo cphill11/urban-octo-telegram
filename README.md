@@ -8,7 +8,7 @@ A website to help imporove marketing options by offering Search Engine Optimizat
 * CSS
 
 # Website
-/Users/cristephillips/Desktop/projects/urban-octo-telegram/Develop/index.html
+https://cphill11.github.io/urban-octo-telegram/
 
 
 ## Contribution
