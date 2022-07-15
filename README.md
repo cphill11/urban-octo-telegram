@@ -19,13 +19,8 @@ Commented out sections of CSS showed where legacy CSS code was streamlined.
 # Website
 https://cphill11.github.io/urban-octo-telegram/
 
-<<<<<<< HEAD
+
 ## Image
-=======
-https://github.com/cphill11/urban-octo-telegram.git
-
->>>>>>> 992830fdd0acb4479c6430d295751196ca08bf75
-
 ![Screenshot](/assets/images/screenshot.png)
 
 
